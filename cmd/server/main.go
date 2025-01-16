@@ -4,9 +4,9 @@ import (
 	"fmt"
 	"log"
 
-	"github.com/devlongs/evm-disassembler/internal/api"
-	"github.com/devlongs/evm-disassembler/internal/config"
-	"github.com/devlongs/evm-disassembler/internal/logger"
+	"github.com/evm-disassembler/internal/api"
+	"github.com/evm-disassembler/internal/config"
+	"github.com/evm-disassembler/internal/logger"
 	"go.uber.org/zap"
 )
 

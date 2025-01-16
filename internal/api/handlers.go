@@ -3,7 +3,7 @@ package api
 import (
 	"net/http"
 
-	"github.com/devlongs/evm-disassembler/internal/disassembler"
+	"github.com/evm-disassembler/internal/disassembler"
 	"github.com/gin-gonic/gin"
 	"go.uber.org/zap"
 )
